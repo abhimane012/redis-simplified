@@ -101,4 +101,4 @@ This makes it useful for safe inserts.
 |---|---|
 | `SETNX key value` | Set key only if it does not exist |
 
-`SETNX` is useful when you want to avoid overwriting existing Redis data 🚀
+`SETNX` is useful when you want to avoid overwriting existing Redis data 🚀 

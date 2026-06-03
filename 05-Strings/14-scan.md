@@ -159,4 +159,4 @@ SCAN 0 MATCH user:* COUNT 5
 | `MATCH pattern` | Filter matching keys |
 | `COUNT number` | Suggest batch size |
 
-`SCAN` is the recommended way to iterate Redis keys safely in production 🚀
+`SCAN` is the recommended way to iterate Redis keys safely in production 🚀 

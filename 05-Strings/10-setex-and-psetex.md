@@ -136,4 +136,4 @@ PTTL token
 | `SETEX key seconds value` | Set key with expiration in seconds |
 | `PSETEX key milliseconds value` | Set key with expiration in milliseconds |
 
-These commands are useful for storing temporary Redis data 🚀
+These commands are useful for storing temporary Redis data 🚀 
